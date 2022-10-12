@@ -236,8 +236,8 @@ h2 {
 
 .footer p:nth-of-type(2) {
     font-size: 1.25rem;
-    max-width: 200px;
     margin: 50px auto;
+    text-align: center;
 }
 
 .footer p:nth-of-type(2)::after {
